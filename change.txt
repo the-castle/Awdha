@@ -1,0 +1,37 @@
+{"version_code":7333334,"content":"
+<p>★ تحديث إصلاحي V8.50 ★</p>
+
+<p>1- إضافة خيار لإلغاء إشعار الخصوصية الجديدة من واتساب</p>
+<p>2- تغيير اللون الداخلي للواتساب الذهبي إلى اللون الأخضر مثل الواتساب الرسمي</p>
+<p>3- إصلاح مشكلة التطبيق ليس مثبتاً في بعض الأجهزة</p>
+<p>4- تغيير بعض الألوان الداخلية إلى الألوان الرسمية</p>
+<p>5- حل مشكلة عدم فتح الواتساب في بعض الأجهزة</p>
+<p>6- حل مشكلة عدم تحميل الوسائط في اندرويد 9/10/11</p>
+<p>7- حل مشكلة عدم حفظ الثيمات</p>
+<p>8- حل مشكلة الخروج المفاجئ للواتساب</p>
+<p>9- إصلاحات مهمة جداً لتفادي بعض الأخطاء</p>
+
+<p>★ Important Update V8.50 ★</p>
+
+<p>Add an option to cancel the new privacy notice from WhatsApp</p>
+<p>Solve the problem of not downloading media in Android 9/10/11</p>
+<p>Change the internal color of WhatsApp Gold to green, like the official WhatsApp</p>
+<p>Fix app not installed problem on some devices</p>
+<p>Change some interior colors to official colors</p>
+<p>Solve the problem of not opening WhatsApp on some devices</p>
+<p>Solve the problem of not saving themes</p>
+<p>Solve the problem of the sudden exit of WhatsApp</p>
+<p>Very important fixes to avoid some bugs</p>
+<strong><p>==================</p></strong>
+<strong><p>👇 يمكنك تحميل التحديث عبر الضغط بالأسفل على كلمة فتح 👇</p></strong>
+<strong><p>👇 You can download the update by clicking on the word Open below 👇</p></strong>
+<strong><p>==================</p></strong>
+<p><li>مـلاحـظـة</li></p>
+<p><li>Note</li></p>
+<p>📩 ستختفي هذة الرسالة  قريبا .. شكراً لكم .</p>
+<p>📩 This message will disappear soon .. Thank you.</p>
+<li>اخيراً نأسف لأزعاجكم - دمتم في حفظ الله -</li>
+<li>Finally, we apologize for the inconvenience</li>
+
+","url":"https://athwamods.blogspot.com"
+}
